@@ -57,6 +57,15 @@ ipconfig /displaydns
 
 ## Result
 
+```text
+Record Name . . . . . . . . . . . . . . : consent.config.office.com
+Record Type . . . . . . . . . . . . . . : 5
+Time To Live . . . . . . . . . . . . . : 7
+Data Length . . . . . . . . . . . . . . : 8
+Section . . . . . . . . . . . . . . . . : Answer
+CNAME Record . . . . . . . . . . . . . : geo.consent.config.office.akadns.net
+```
+
 
 
 ## What I learned
@@ -105,6 +114,11 @@ nslookup github.com 1.1.1.1
 
 ## Result
 
+```text
+Non-authoritative answer:
+Name:    github.com
+Address: 4.208.26.197
+```
 
 
 ## What I learned
