@@ -47,7 +47,7 @@ This repository follows a few simple principles.
 ```
 001-how-dns-works/
 002-how-http-works/
-003-how-tcp-works/
+003-how-https-works/
 ...
 ```
 
